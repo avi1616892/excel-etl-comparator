@@ -1,0 +1,10 @@
+Difference for ID 3: source=(Noa,40) target=(Noa,41)
+Missing in target: ID 4 (Lior,50)
+
+--- Checking table: customers ---
+Diff in customers for ID 3: source=(Noa,Bronze) target=(Noa,Platinum)
+
+--- Checking table: accounts ---
+
+--- Checking table: transactions ---
+Missing in target (transactions): ID 2 (Withdraw,300)
